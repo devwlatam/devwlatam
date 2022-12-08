@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Dev: comunidad para futuros desarrolladores frontend en español 🚀</div>  
+### <div align="center">Dev: la comunidad de los futuros desarrolladores frontend 🚀</div>  
   
 
-- 🔭 Actualmente estamos trabajando en el reto #100DaysOfCode en español  
+- 🔭 Actualmente estamos trabajando en el reto **#100DaysOfCode** en español
   
 
 - 🌱 Actualmente estamos aprendiendo HTML, CSS y JavaScript  
@@ -22,8 +22,7 @@
 
 
 ## Nuestro Stack
-<table><tr><td valign="top" width="33%">
-
+<table><tr><td valign="top" width="50%">
 
 
 ### Frontend  
@@ -35,25 +34,6 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend 
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
 </div>
 
 </td></tr></table>  
@@ -86,11 +66,9 @@
 
 ## Blog Recientes  
 
+- #### [Glosario de términos en el desarrollo web](#)  
+- #### [Antes de estudiar programación](#)
 
-### Glosario de términos en el desarrollo web  
-<!-- BLOG-POST-LIST:START -->  
-La [guía completa](#) de los términos más usados en el desarrollo web.
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
